@@ -1,0 +1,5 @@
+# Ignorar directorios generados automáticamente
+/build/
+/nbproject/private/
+*.class
+/8_CalcPrecImpDesc/
